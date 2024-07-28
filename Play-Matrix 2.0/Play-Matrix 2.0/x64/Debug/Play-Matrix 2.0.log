@@ -1,0 +1,54 @@
+﻿  AsciiHangmanDrawing.cpp
+  Display.cpp
+  GameFlow.cpp
+  GameManager.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\HangMan\GameManager.cpp(23,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GameRecord.cpp
+  HangmanDrawing.cpp
+  HangMan.cpp
+  Player.cpp
+  UserProfile.cpp
+  Wordbank.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\HangMan\Wordbank.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Play-Matrix 2.0.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Console.h(24,5): error C2059: syntax error: '}'
+  (compiling source file 'Play-Matrix%202.0.cpp')
+  
+  Fruit.cpp
+  GameObject.cpp
+  Game_manager.cpp
+  ScoreBoard.cpp
+  Snake.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Snake Game\Snake.cpp(32,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Snake_Game.cpp
+  Bullets.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Bullets.cpp(31,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Console.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Console.h(24,5): error C2059: syntax error: '}'
+  (compiling source file 'Space_Shooter/Console.cpp')
+  
+  Enemies.cpp
+  Generating Code...
+  Compiling...
+  Game_Manage.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Console.h(24,5): error C2059: syntax error: '}'
+  (compiling source file 'Space_Shooter/Game_Manage.cpp')
+  
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(89,32): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(89,32): warning C4244:         with
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(89,32): warning C4244:         [
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(89,32): warning C4244:             _Ty=int
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(89,32): warning C4244:         ]
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(90,32): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(90,32): warning C4244:         with
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(90,32): warning C4244:         [
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(90,32): warning C4244:             _Ty=int
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Game_Manage.cpp(90,32): warning C4244:         ]
+  Game_objects.cpp
+  Ship.cpp
+  Space-Shooter.cpp
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Console.h(24,5): error C2059: syntax error: '}'
+  (compiling source file 'Space_Shooter/Space-Shooter.cpp')
+  
+C:\Users\ASUS\Documents\Github Uni\spring2024-ce101-oop-project-group-bb-1\Play-Matrix 2.0\Space_Shooter\Space-Shooter.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
